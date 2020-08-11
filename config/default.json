@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://sarath:MyMernProject@nodejs@cluster0.yoqac.mongodb.net/<dbname>?retryWrites=true&w=majority"
+}
