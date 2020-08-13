@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://sarath:MyMernProject@nodejs@cluster0.yoqac.mongodb.net/<dbname>?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://sarath:MyMernProject@nodejs@cluster0.yoqac.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "this_will_be_my_little_secret@jwt"
 }
